@@ -58,6 +58,6 @@ Use Sky component library instead of Material UI library
 
 Use Sky privided fonts to keep the text styling consistent 
 
-### Providing feedback for users
+### Provide feedback for user
 
 Use loading spinner while retrieving data from api  
